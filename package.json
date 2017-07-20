@@ -1,0 +1,16 @@
+{
+  "name": "webpack-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "file-loader": "^0.11.2",
+    "webpack": "^3.3.0"
+  }
+}
